@@ -1,7 +1,6 @@
 <?php
 
 namespace CodeInBB;
-// Associative arrays
 
 function halfOfTree(int $size): string
 {

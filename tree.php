@@ -1,7 +1,6 @@
 <?php
 
 namespace CodeInBB;
-// Associative arrays
 
 function tree(int $size, string $treeChar = '*'): string
 {
